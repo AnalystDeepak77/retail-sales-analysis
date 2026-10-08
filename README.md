@@ -31,6 +31,13 @@ This project analyzes retail sales data (3,998 records) to uncover business insi
 
 <img width="1296" height="737" alt="R S D" src="https://github.com/user-attachments/assets/0d2dc85f-4aa5-4d42-89c5-5c54294cd39b" />
 
+## Files in this Repository
+
+- `Retail_Sales.xlsx`: Excel analysis report
+- `sql_queries.sql`:SQL analysis (5)queries
+- `R S D.png`: Retail sales dashboard
+- `Retail-Sales_overview.png`: Dashboard overview
+
 
 ## Key Insights
 
