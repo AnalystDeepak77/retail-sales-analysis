@@ -29,7 +29,8 @@ This project analyzes retail sales data (3,998 records) to uncover business insi
 
 ## Dashboard Preview
 
-<img width="1310" height="738" alt="Retail Sales Dashboard" src="https://github.com/user-attachments/assets/b146515e-cc28-4613-b830-c5f81c1310cb" />
+<img width="1296" height="737" alt="R S D" src="https://github.com/user-attachments/assets/0d2dc85f-4aa5-4d42-89c5-5c54294cd39b" />
+
 
 ## Key Insights
 
